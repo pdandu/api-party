@@ -9,7 +9,7 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <div className="App-headings">
-            <h3>Ain't no party like an</h3>
+            <h3>Ain't no party like an API Party </h3>
             <h1>API Party</h1>
           </div>
           <ul className="nav-links">
